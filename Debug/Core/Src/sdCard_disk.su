@@ -1,0 +1,16 @@
+sdCard_disk.c:61:16:SD_IsDetected	16	static
+sdCard_disk.c:77:16:SD_Init	16	static
+sdCard_disk.c:110:16:SD_CheckStatus	16	static
+sdCard_disk.c:151:12:SD_CheckStatusWithTimeout	24	static
+sdCard_disk.c:175:16:BSP_SD_ReadBlocks_DMA	32	static
+sdCard_disk.c:195:16:BSP_SD_WriteBlocks_DMA	32	static
+sdCard_disk.c:214:13:BSP_SD_GetCardInfo	16	static
+sdCard_disk.c:225:9:SD_initialize	8	static
+sdCard_disk.c:246:9:SD_status	8	static
+sdCard_disk.c:260:9:SD_read	40	static
+sdCard_disk.c:317:9:SD_write	40	static
+sdCard_disk.c:372:9:SD_ioctl	56	static
+sdCard_disk.c:421:6:HAL_SD_RxCpltCallback	16	static
+sdCard_disk.c:432:6:HAL_SD_TxCpltCallback	16	static
+sdCard_disk.c:443:6:HAL_SD_AbortCallback	16	static
+sdCard_disk.c:456:6:HAL_SD_ErrorCallback	16	static
